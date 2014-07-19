@@ -1,0 +1,22 @@
+Ugly Jamendo music app for your device of choice.
+
+Fetches oggs through the jamendo API and plays them
+
+To use: type to search and click the title of a song to play
+
+DISCLAIMER:
+I'm not responsible if your cat dies after using this software.
+Also, how did your cat learn how to use a computer?
+
+Also I don't own, nor do I have any affiliation with Jamendo.
+All music streamed belongs to the author and not me
+(unless by some miracle my music gets on there).
+
+API KEY
+There's a default API key in there - only use it for testing.
+Go get your own at:
+http://developer.jamendo.com/v3.0#obtain_client_id
+I might make your browser save the last thing in there in future.
+
+LICENCE:
+Whatever man. Just don't sue me, got it?
