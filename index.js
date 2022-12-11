@@ -56,13 +56,13 @@
 			play: function(what) {
 				this.audio.src = what.getAttribute('data-audio');
 				this.audio.play();
-			}, 
+			},
 			init: function() {
 				this.query.value = this.initial;
 				this.query.addEventListener('keyup', this.keyup.bind(this));
 				this.apiKey.addEventListener('blur', this.keyup.bind(this));
 				this.search(this.initial);
-			} 
+			}
 		};
 
 	VM.init();
